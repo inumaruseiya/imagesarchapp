@@ -1,16 +1,12 @@
-# image_sarch
+# アプリ
+画像検索アプリ
 
-A new Flutter project.
+## 説明
+フリーの画像サイトPixabayにある画像を検索するアプリを作成しました。
 
-## Getting Started
+## 機能
+- APIから画像、いいね数表示
+- 検索機能
+- 画像シェア機能
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
